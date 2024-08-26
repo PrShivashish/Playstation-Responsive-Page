@@ -1,4 +1,4 @@
-<h1 align="center">You can access the project <a href="https://repsonsive-website-playstation.netlify.app/" target="_blank">Clicking here</a></h1>
+<h1 align="center">You can access the project <a href="https://PS-Verse.netlify.app/" target="_blank">Clicking here</a></h1>
 
 <p align="center">Appliction developed to learning effects. The UI is designed in Figma </p>
 
