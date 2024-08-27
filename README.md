@@ -1,3 +1,8 @@
+![banner](https://github.com/user-attachments/assets/c0039ae0-35cd-40a1-b099-db7a60d64ae7)
+
+
+<br/>
+
 <h1 align="center">You can access the project <a href="https://main--ps-verse.netlify.app" target="_blank">Clicking here</a></h1>
 
 <p align="center">Appliction developed to learning effects. The UI is designed in Figma </p>
